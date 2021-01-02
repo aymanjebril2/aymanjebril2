@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Ayman 👋
+
+
+- 🔭 I’m currently working on to brushing up my skills
+- 🌱 I’m currently learning  JavaScript
+- 👯 I’m looking to collaborate on JavaScript projects
+- 💬 Ask me about JavaScript
+- 📫 How to reach me: <a href="mailto:aymangebrilomer@gmail.com">Gmail</a>
+- ⚡ Fun fact: Appolo-11 mission uses only 4KB RAM to reach on moon
 
 <!--
 **aymanjebril2/aymanjebril2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
